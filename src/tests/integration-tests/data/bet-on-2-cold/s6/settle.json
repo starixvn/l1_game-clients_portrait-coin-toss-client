@@ -1,0 +1,86 @@
+{
+    "name": "settle",
+    "server": {
+        "delay": 6000,
+        "response": [
+            {
+                "namespace": "/user/colorgame",
+                "event": "ColorGame",
+                "payload": {
+                    "finish": {
+                        "result": {
+                            "dice1": 5,
+                            "dice2": 0,
+                            "dice3": 2
+                        },
+                        "settlementResult": {
+                            "yellow": true,
+                            "red": false,
+                            "pink": true,
+                            "white": false,
+                            "blue": false,
+                            "green": true,
+                            "hot": true,
+                            "cold": false
+                        },
+                        "roundId": 4,
+                        "winningPlayers": {}
+                    }
+                }
+            },
+            {
+                "namespace": "/user/colorgame",
+                "event": "ColorGame",
+                "payload": {
+                    "status": {
+                        "winningByChoices": {
+                            "yellow": 0,
+                            "red": 0,
+                            "pink": 0,
+                            "white": 0,
+                            "blue": 0,
+                            "green": 0,
+                            "hot": 0,
+                            "cold": 0
+                        },
+                        "win": false,
+                        "bet": 1
+                    }
+                }
+            },
+            {
+                "namespace": "/user/colorgame",
+                "event": "ColorGame",
+                "payload": {
+                    "winners": {
+                        "roundId": 4,
+                        "winningPlayers": {
+                            "abc": {
+                                "rate": 1,
+                                "win": true,
+                                "bet": 400,
+                                "winningByChoices": {
+                                    "yellow": 0,
+                                    "red": 0,
+                                    "pink": 400,
+                                    "white": 0,
+                                    "blue": 0,
+                                    "green": 0,
+                                    "hot": 0,
+                                    "cold": 0
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "client": {
+        "delayForAssert": 6000,
+        "waitUntilMetExpectation": true,
+        "waitExpectationTimeout": 60000,
+        "actual": "Integration.label('balance')",
+        "expected": "1,999"
+    }
+}

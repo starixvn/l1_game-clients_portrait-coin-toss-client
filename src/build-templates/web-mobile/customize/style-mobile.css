@@ -1,0 +1,434 @@
+html {
+    -ms-touch-action: none;
+    /* height: 100%; */
+}
+
+body,
+canvas,
+div {
+    display: block;
+    outline: none;
+
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+}
+
+/* Remove spin of input type number */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0;
+    /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+iframe {
+    overflow-x: hidden;
+}
+
+body {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    background-size: auto 100vh;
+
+    cursor: default;
+    color: #888;
+
+    text-align: center;
+    font-family: Helvetica, Verdana, Arial, sans-serif;
+
+    display: flex;
+    flex-direction: column;
+
+    /* fix bug: https://github.com/cocos-creator/2d-tasks/issues/791 */
+    /* overflow cannot be applied in Cocos2dGameContainer,
+  otherwise child elements will be hidden when Cocos2dGameContainer rotated 90 deg */
+    overflow: hidden;
+}
+
+.container-themes {
+    position: relative;
+    top: 5.22vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-themes {
+    background-size: auto 89.56vh;
+    width: auto;
+    height: 89.56vh;
+}
+
+#GameDiv {
+    margin: 0px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+#Cocos3dGameContainer {
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    top: 0px;
+
+    display: -webkit-box;
+    -webkit-box-orient: horizontal;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+
+    width: 100%;
+    z-index: 1;
+    height: 100vh !important;
+    height: calc(var(--vh, 1vh) * 100) !important;
+}
+
+#Cocos3dGameContainer > div[style*="overflow-x"] {
+    overflow-x: hidden !important;
+}
+
+a:link,
+a:visited {
+    color: #666;
+}
+
+a:active,
+a:hover {
+    color: #666;
+}
+
+p.header {
+    font-size: small;
+}
+
+p.footer {
+    font-size: x-small;
+}
+
+#Background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url("./../images/background.jpg?v=1");
+    background-size: auto 100vh;
+}
+
+.splash-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+}
+
+.splash {
+    position: absolute;
+    top: 5vh;
+    background: url("./../images/logo_saba.webp?v=2") no-repeat top center;
+    background-size: auto 8.92vh;
+    width: 100%;
+    height: 100%;
+}
+
+.splash_bg_game {
+    position: absolute;
+    background: no-repeat center;
+    background-size: auto 56.5vh;
+    width: 100%;
+    height: 100%;
+}
+
+.bg_no_translate {
+    background-image: url("./../splash-resources/game_background.webp?v=1");
+}
+
+.splash_bg_game_vi {
+    background-image: url("./../splash-resources/game_background_vi.webp?v=1");
+}
+
+.splash_bg_game_en {
+    background-image: url("./../splash-resources/game_background_en.webp?v=1");
+}
+
+.splash_bg_game_th {
+    background-image: url("./../splash-resources/game_background_th.webp?v=1");
+}
+
+.splash_bg_game_id {
+    background-image: url("./../splash-resources/game_background_id.webp?v=1");
+}
+
+.splash_bg_game_zh_cn {
+    background-image: url("./../splash-resources/game_background_zh_cn.webp?v=1");
+}
+
+.splash_bg_game_zh_tw {
+    background-image: url("./../splash-resources/game_background_zh_tw.webp?v=1");
+}
+
+.splash_text {
+    position: absolute;
+    top: 17.3vh;
+    background: no-repeat center;
+    background-size: auto 3.44vh;
+    width: 100%;
+    height: 3.44vh;
+}
+
+#splash.instant-game .splash_Vgaming {
+    top: 1vh;
+    background-size: auto 16.5vh;
+    height: 16.5vh;
+}
+
+.splash_Vgaming {
+    position: relative;
+    top: 3vh;
+    background: url("./../images/logo_vgaming.webp?v=2") no-repeat center;
+    background-size: auto 13.23vh;
+    width: auto;
+    height: 13.23vh;
+}
+
+.splash_sabaplay {
+    position: relative;
+    top: 3vh;
+    background: url("./../images/logo_sabaplay.webp?v=2") no-repeat center;
+    background-size: auto 13.61vh;
+    width: auto;
+    height: 13.61vh;
+}
+
+.splash_tip88 {
+    position: relative;
+    top: 2.5vh;
+    background: url("./../images/logo_tip88.webp?v=2") no-repeat center;
+    background-size: auto 14.25vh;
+    width: auto;
+    height: 14.25vh;
+}
+
+.splash_text_vi {
+    background-image: url("./../images/splash_text_vi.webp?v=1");
+}
+
+.splash_text_en {
+    background-image: url("./../images/splash_text_en.webp?v=1");
+}
+
+.splash_text_th {
+    background-image: url("./../images/splash_text_th.webp?v=1");
+}
+
+.splash_text_id {
+    background-image: url("./../images/splash_text_id.webp?v=1");
+}
+
+.splash_text_zh_cn {
+    background-image: url("./../images/splash_text_zh_cn.webp?v=1");
+}
+
+.splash_text_zh_tw {
+    background-image: url("./../images/splash_text_zh_tw.webp?v=1");
+}
+
+#splash.instant-game .splash {
+    top: 4vh;
+    background-size: auto 11.1vh;
+}
+
+#splash.instant-game .splash_bg_game {
+    top: 1.9vh;
+    background-image: url("./../splash-resources/landscape_game_background.webp?v=2");
+    background-size: auto;
+}
+
+#splash.instant-game .splash_tip88 {
+    top: 0.7vh;
+    background-size: auto 17.76vh;
+    height: 17.76vh;
+}
+
+#splash.instant-game .splash_sabaplay {
+    top: 0.7vh;
+    background-size: auto 16.96vh;
+    height: 16.96vh;
+}
+
+.conner-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.centered-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+}
+
+#splash.instant-game .splash_text {
+    top: 19.6vh;
+    background-size: auto 4.28vh;
+    height: 4.28vh;
+}
+
+.text {
+    margin-bottom: 36px;
+    text-transform: capitalize;
+    background: linear-gradient(to bottom, #ffe28e 0%, #f9a71a 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1.8em;
+    font-family: Arial;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) and (orientation: portrait) {
+    body {
+        background-size: 100vh auto;
+    }
+
+    .splash-container {
+        height: 100vw;
+        width: 100vh;
+        transform: rotate(90deg);
+        transform-origin: bottom left;
+        top: -100vw;
+        left: 0;
+    }
+
+    .container-themes {
+        position: fixed;
+        height: calc(89.56vw - 70px);
+        -ms-transform: translateY(-89.56vw) rotate(90deg);
+        -o-transform: translateY(-89.56vw) rotate(90deg);
+        -ms-transform: translateY(-89.56vw) rotate(90deg);
+        -o-transform: translateY(-89.56vw) rotate(90deg);
+        transform: translateY(-89.56vw) rotate(90deg);
+        -webkit-transform-origin: left bottom;
+        -moz-transform-origin: left bottom;
+        top: unset;
+        bottom: unset;
+        right: unset;
+        left: 5.22vw;
+    }
+
+    .img-themes {
+        background-size: auto 50.36vh;
+        width: auto;
+        height: 50.36vh;
+    }
+
+    #Background {
+        background-size: 100vh 100vw;
+        transform: rotate(90deg);
+        transform-origin: bottom left;
+        width: 100vh;
+        height: 100vw;
+        top: -100vw;
+    }
+
+    .light {
+        background-size: 31.47vw 8.79vw;
+        width: 31.47vw;
+        height: 8.79vw;
+    }
+
+    .splash {
+        top: 28vh;
+        left: 0;
+        background-size: auto 6.3vh;
+    }
+
+    .splash_text {
+        top: 17.3vw;
+        background-size: auto 3.44vw;
+    }
+
+    .splash_Vgaming {
+        top: 25vh;
+        background-size: auto 8vh;
+    }
+
+    #splash.instant-game .splash_Vgaming {
+        top: 0vh;
+        left: 0px;
+        background-size: auto 14.1vh;
+    }
+
+    .centered-image {
+        top: 50vh;
+    }
+
+    .splash_bg_game {
+        background-size: auto 25vh;
+    }
+
+    body.instant-game {
+        background-size: auto 100vh;
+    }
+
+    #splash.instant-game {
+        transform: rotate(0deg);
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 999;
+    }
+
+    #splash.instant-game .splash {
+        top: 4vh;
+        background-size: auto 9.5vh;
+    }
+
+    #splash.instant-game .splash_bg_game {
+        top: -1vh;
+        background-image: url("./../splash-resources/portrait_game_background.webp?v=2");
+    }
+
+    #splash.instant-game .splash_sabaplay {
+        top: 0vh;
+        background-size: auto 14.5vh;
+    }
+
+    #splash.instant-game .splash_tip88 {
+        top: 0.7vh;
+        background-size: auto 15.18vh;
+        height: 15.18vh;
+    }
+
+    #splash.instant-game .splash_text {
+        top: 17.5vh;
+        background-size: auto 3.66vh;
+        height: 3.66vh;
+    }
+}
+
+@keyframes animate-stripes {
+    0% {
+        background-position: 0 0;
+    }
+
+    100% {
+        background-position: 60px 0;
+    }
+}

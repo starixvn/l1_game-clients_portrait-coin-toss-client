@@ -1,0 +1,38 @@
+{
+  "__version__": "1.0.5",
+  "general": {
+    "designResolution": {
+      "width": 812,
+      "height": 410,
+      "fitHeight": true,
+      "fitWidth": true
+    }
+  },
+  "custom_joint_texture_layouts": [],
+  "physics": {
+    "gravity": {
+      "y": -12
+    },
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "DICE"
+      },
+      {
+        "index": 2,
+        "name": "BOX"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 7,
+      "1": 7,
+      "2": 7
+    }
+  },
+  "layer": [
+    {
+      "name": "UI_2D_BELOW_3D",
+      "value": 524288
+    }
+  ]
+}

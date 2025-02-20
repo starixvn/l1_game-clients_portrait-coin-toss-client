@@ -1,0 +1,44 @@
+{
+    "head_music": {
+        "bundle": "resources"
+    },
+    "head_en": {
+        "bundle": "resources"
+    },
+    "head_vi": {
+        "bundle": "resources"
+    },
+    "head_th": {
+        "bundle": "resources"
+    },
+    "head_id": {
+        "bundle": "resources"
+    },
+    "head_zh_cn": {
+        "bundle": "resources"
+    },
+    "head_zh_tw": {
+        "bundle": "resources"
+    },
+    "tail_en": {
+        "bundle": "resources"
+    },
+    "tail_vi": {
+        "bundle": "resources"
+    },
+    "tail_th": {
+        "bundle": "resources"
+    },
+    "tail_id": {
+        "bundle": "resources"
+    },
+    "tail_zh_cn": {
+        "bundle": "resources"
+    },
+    "tail_zh_tw": {
+        "bundle": "resources"
+    },
+    "tail_music": {
+        "bundle": "resources"
+    }
+}

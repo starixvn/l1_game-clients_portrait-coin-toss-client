@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Sign In",
+        "server": {
+            "waitForRequest": {
+                "namespace": "/user/colorgame",
+                "event": "signin",
+                "payload": {
+                    "ss": "ss",
+                    "username": "username",
+                    "system": 1
+                }
+            },
+            "response": [
+                {
+                    "namespace": "/user/colorgame",
+                    "event": "message",
+                    "payload": {
+                        "userStakeLevel": {
+                            "minBet": 1,
+                            "maxBet": 3000
+                        }
+                    }
+                },
+                {
+                    "namespace": "/user/colorgame",
+                    "event": "signedIn",
+                    "payload": {}
+                },
+                {
+                    "namespace": "/user/colorgame",
+                    "event": "message",
+                    "payload": {
+                        "toGame": "ColorGame"
+                    }
+                }
+            ]
+        }
+    }
+]
