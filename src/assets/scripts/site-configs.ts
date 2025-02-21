@@ -13,9 +13,9 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         localhost: "lumigame.com",
     },
     ssl: true,
-    subDomain: "l1-proxy3",
-    env: "LOCAL1",
-    subGuideDomain: "l1-guide",
+    subDomain: "hd-proxy",
+    env: "LOCAL",
+    subGuideDomain: "hd-guide",
     SGConnectSubDomain: "connectsite",
     enableMsgpackParserAllGames: false,
     enableMsgpackParserOnNotification: false,
@@ -25,9 +25,7 @@ const defaultConfig: gc.Configs.SiteConfigs = {
     },
     mainObserverNamespace: "CoinToss",
     tolgeeUrl: "",
-    boostedOddsDelayTimeByMinutes: 2,
-    storagePrefixKey: "si",
-    backgroundNoTranslate: true,
+    storagePrefixKey: "portrait_coin_toss",
 };
 
 let configDev = {
