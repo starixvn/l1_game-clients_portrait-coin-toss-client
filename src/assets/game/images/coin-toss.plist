@@ -4,33 +4,333 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>bg-countdown.png</key>
+            <key>bet-option-harris.webp</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{78,78}</string>
+                <string>{441,456}</string>
                 <key>spriteSourceSize</key>
-                <string>{78,78}</string>
+                <string>{441,456}</string>
                 <key>textureRect</key>
-                <string>{{43,3},{78,78}}</string>
+                <string>{{3,3},{441,456}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>bet-option-trump.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{441,456}</string>
+                <key>spriteSourceSize</key>
+                <string>{441,456}</string>
+                <key>textureRect</key>
+                <string>{{461,3},{441,456}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>bg-bet-option-harris-portrait.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{70,436}</string>
+                <key>spriteSourceSize</key>
+                <string>{70,436}</string>
+                <key>textureRect</key>
+                <string>{{919,199},{70,436}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>bg-time.png</key>
+            <key>bg-bet-option-stroke-portrait.webp</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{211,38}</string>
+                <string>{70,436}</string>
+                <key>spriteSourceSize</key>
+                <string>{70,436}</string>
+                <key>textureRect</key>
+                <string>{{3,446},{70,436}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>bg-bet-option-trump-portrait.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{70,436}</string>
+                <key>spriteSourceSize</key>
+                <string>{70,436}</string>
+                <key>textureRect</key>
+                <string>{{441,446},{70,436}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>bg-countdown.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{78,78}</string>
+                <key>spriteSourceSize</key>
+                <string>{78,78}</string>
+                <key>textureRect</key>
+                <string>{{919,3},{78,78}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>bg-score-harris.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{73,56}</string>
+                <key>spriteSourceSize</key>
+                <string>{73,56}</string>
+                <key>textureRect</key>
+                <string>{{919,83},{73,56}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>bg-score-trump.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{73,56}</string>
+                <key>spriteSourceSize</key>
+                <string>{73,56}</string>
+                <key>textureRect</key>
+                <string>{{919,141},{73,56}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>bg-time.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,0}</string>
+                <key>spriteSize</key>
+                <string>{207,38}</string>
                 <key>spriteSourceSize</key>
                 <string>{211,38}</string>
                 <key>textureRect</key>
-                <string>{{3,3},{211,38}}</string>
+                <string>{{879,446},{207,38}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>blue-bar.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{30,16}</string>
+                <key>spriteSourceSize</key>
+                <string>{30,16}</string>
+                <key>textureRect</key>
+                <string>{{991,596},{30,16}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>blue-dot.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{28,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{991,632},{28,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>bright.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,1}</string>
+                <key>spriteSize</key>
+                <string>{358,17}</string>
+                <key>spriteSourceSize</key>
+                <string>{358,25}</string>
+                <key>textureRect</key>
+                <string>{{999,59},{358,17}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>cell.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{30,175}</string>
+                <key>spriteSourceSize</key>
+                <string>{30,175}</string>
+                <key>textureRect</key>
+                <string>{{991,419},{30,175}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>coin.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{431,416}</string>
+                <key>spriteSourceSize</key>
+                <string>{431,416}</string>
+                <key>textureRect</key>
+                <string>{{3,518},{431,416}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>harris-face.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{289,346}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,346}</string>
+                <key>textureRect</key>
+                <string>{{3,936},{289,346}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>harris-lose-face.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{289,346}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,346}</string>
+                <key>textureRect</key>
+                <string>{{351,1132},{289,346}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>red-bar.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{30,16}</string>
+                <key>spriteSourceSize</key>
+                <string>{30,16}</string>
+                <key>textureRect</key>
+                <string>{{991,614},{30,16}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>red-dot.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{28,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{991,662},{28,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>shadow-bar.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{54,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{54,20}</string>
+                <key>textureRect</key>
+                <string>{{999,3},{54,20}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>stroke-scoreboard.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{70,231}</string>
+                <key>spriteSourceSize</key>
+                <string>{70,231}</string>
+                <key>textureRect</key>
+                <string>{{919,637},{70,231}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>trump-face.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{301,357}</string>
+                <key>spriteSourceSize</key>
+                <string>{301,357}</string>
+                <key>textureRect</key>
+                <string>{{436,518},{301,357}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>trump-lose-face.webp</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{309,356}</string>
+                <key>spriteSourceSize</key>
+                <string>{309,356}</string>
+                <key>textureRect</key>
+                <string>{{436,821},{309,356}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -46,9 +346,9 @@
             <key>realTextureFileName</key>
             <string>coin-toss.webp</string>
             <key>size</key>
-            <string>{128,256}</string>
+            <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:215e0ef67b1855abdf1512aa8df49f4f:aa624e4a94dc6a4bbcdffcdff6fdf800:8265a744d2c4a24cdfc36379518b9d21$</string>
+            <string>$TexturePacker:SmartUpdate:87dc06877ab6c43046cc9690feedfe30:d4fc40180d86105f4d3d228319dc7e01:8265a744d2c4a24cdfc36379518b9d21$</string>
             <key>textureFileName</key>
             <string>coin-toss.webp</string>
         </dict>

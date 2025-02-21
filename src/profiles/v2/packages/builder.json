@@ -12,6 +12,7 @@
         "state": "success",
         "stage": "build",
         "message": "5-29-2024 11:30:44 build success in 141416 ms!",
+        "detailMessage": "",
         "options": {
           "name": "cocos-3x",
           "platform": "web-mobile",
@@ -29,30 +30,16 @@
           "mainBundleCompressionType": "merge_dep",
           "useSplashScreen": false,
           "packAutoAtlas": true,
-          "startScene": "374bdfc3-a787-4bd2-817b-4efe75860854",
+          "startScene": "4a235c28-3b16-4dc4-8ba8-53379c27be8f",
           "outputName": "web-mobile",
           "scenes": [
             {
-              "url": "db://shared-components/feature-structure/scene.scene",
-              "uuid": "b97b166d-3dd1-4968-8fa8-488f447e05b0",
-              "inBundle": false
+              "url": "db://assets/game/portrait-game.scene",
+              "uuid": "4a235c28-3b16-4dc4-8ba8-53379c27be8f"
             },
             {
-              "url": "db://shared-components/shared/common-components/integrations/identifier.scene",
-              "uuid": "8fa0d7ef-6c87-40c2-bd73-c63184ba47ff",
-              "inBundle": false
-            },
-            {
-              "url": "db://assets/game-instant/game-instant-landscape.scene",
-              "uuid": "ad2c4f56-4008-49e0-891a-0f6d92bb381f"
-            },
-            {
-              "url": "db://assets/game-instant/game-instant-portrait.scene",
-              "uuid": "41c56f39-fd80-4431-9cbe-b37ff65f2352"
-            },
-            {
-              "url": "db://assets/game-instant/splash/splash.scene",
-              "uuid": "374bdfc3-a787-4bd2-817b-4efe75860854"
+              "url": "db://assets/game/splash/splash.scene",
+              "uuid": "cdeb5c24-9ba8-4cab-a306-8a562fd04b39"
             }
           ],
           "web-desktop": [],
@@ -74,7 +61,15 @@
             "macroConfig": {
               "cleanupImageCache": "off"
             }
-          }
+          },
+          "nativeCodeBundleMode": "both",
+          "md5CacheOptions": {
+            "excludes": [],
+            "includes": [],
+            "replaceOnly": [],
+            "handleTemplateMd5Link": true
+          },
+          "wasmCompressionMode": false
         },
         "time": "5-29-2024 11:28:23",
         "dirty": false
@@ -89,24 +84,15 @@
     "useSplashScreen": false,
     "skipCompressTexture": false,
     "mainBundleIsRemote": false,
-    "startScene": "374bdfc3-a787-4bd2-817b-4efe75860854",
+    "startScene": "4a235c28-3b16-4dc4-8ba8-53379c27be8f",
     "scenes": [
       {
-        "url": "db://shared-components/feature-structure/scene.scene",
-        "uuid": "b97b166d-3dd1-4968-8fa8-488f447e05b0",
-        "inBundle": false
+        "url": "db://assets/game/portrait-game.scene",
+        "uuid": "4a235c28-3b16-4dc4-8ba8-53379c27be8f"
       },
       {
-        "url": "db://assets/game-instant/game-instant-landscape.scene",
-        "uuid": "ad2c4f56-4008-49e0-891a-0f6d92bb381f"
-      },
-      {
-        "url": "db://assets/game-instant/game-instant-portrait.scene",
-        "uuid": "41c56f39-fd80-4431-9cbe-b37ff65f2352"
-      },
-      {
-        "url": "db://assets/game-instant/splash/splash.scene",
-        "uuid": "374bdfc3-a787-4bd2-817b-4efe75860854"
+        "url": "db://assets/game/splash/splash.scene",
+        "uuid": "cdeb5c24-9ba8-4cab-a306-8a562fd04b39"
       }
     ],
     "polyfills": {

@@ -2,7 +2,7 @@
     "children": [
         {
             "options": {
-                "input_files": [["", "*.png"]]
+                "input_files": [["", "*.webp"]]
             },
             "children": [
                 {
