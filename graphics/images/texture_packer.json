@@ -7,9 +7,9 @@
             "children": [
                 {
                     "options": {
-                        "params": ["--texture-format", "png"],
-                        "sheet_extension": "png",
-                        "output_path": ["main-altas"]
+                        "params": ["--texture-format", "webp"],
+                        "sheet_extension": "webp",
+                        "output_path": ["coin-toss"]
                     }
                 }
             ]
@@ -28,7 +28,7 @@
             ["--max-height", 2048],
             ["--size-constraints", "POT"],
             ["--png-opt-level", 0],
-            ["--alpha-handling", "KeepTransparentPixels"],
+            ["--alpha-handling", "ReduceBorderArtifacts"],
             ["--max-width", 2048],
             ["--trim-mode", "Trim"],
             ["--border-padding", 2],
