@@ -2,12 +2,12 @@
   "ver": "1.1.50",
   "importer": "prefab",
   "imported": true,
-  "uuid": "ff4a7cb1-c194-44bb-b810-5982525b617d",
+  "uuid": "3559fcfa-ad14-4dff-953b-36ff3f50bf36",
   "files": [
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "syncNodeName": "bet-detail-dialog"
+    "syncNodeName": "led-light-item"
   }
 }
