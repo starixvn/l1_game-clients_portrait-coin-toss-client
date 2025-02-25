@@ -1,286 +1,272 @@
 
-confetti.png
-size: 1690,1297
+confetti.webp
+size: 1627,847
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-fire/confetti1
-  rotate: false
-  xy: 2, 1038
-  size: 209, 257
-  orig: 209, 257
+confetti/confetti1
+  rotate: true
+  xy: 2, 678
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti10
-  rotate: false
-  xy: 635, 1038
-  size: 209, 257
-  orig: 209, 257
+confetti/confetti10
+  rotate: true
+  xy: 210, 509
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti11
+confetti/confetti11
+  rotate: true
+  xy: 418, 509
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti12
+  rotate: true
+  xy: 626, 509
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti13
+  rotate: true
+  xy: 834, 509
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti14
+  rotate: true
+  xy: 1042, 509
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti15
+  rotate: true
+  xy: 1250, 509
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti16
   rotate: false
+  xy: 1458, 431
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti17
+  rotate: true
+  xy: 2, 340
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti19
+  rotate: true
+  xy: 210, 340
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti2
+  rotate: true
+  xy: 210, 678
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti20
+  rotate: true
+  xy: 418, 340
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti21
+  rotate: true
+  xy: 626, 340
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti22
+  rotate: true
+  xy: 834, 340
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti23
+  rotate: true
+  xy: 1042, 340
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti24
+  rotate: true
+  xy: 1250, 340
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti25
+  rotate: false
+  xy: 1458, 223
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti26
+  rotate: true
+  xy: 2, 171
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti27
+  rotate: true
+  xy: 210, 171
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti28
+  rotate: true
+  xy: 418, 171
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti29
+  rotate: true
+  xy: 626, 171
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti3
+  rotate: true
+  xy: 418, 678
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti30
+  rotate: true
+  xy: 834, 171
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti31
+  rotate: true
+  xy: 1042, 171
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti32
+  rotate: true
+  xy: 1250, 171
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti33
+  rotate: false
+  xy: 1458, 15
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+confetti/confetti35
+  rotate: true
   xy: 2, 2
-  size: 209, 257
-  orig: 209, 257
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti12
-  rotate: false
-  xy: 213, 261
-  size: 209, 257
-  orig: 209, 257
+confetti/confetti36
+  rotate: true
+  xy: 210, 2
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti13
-  rotate: false
-  xy: 424, 520
-  size: 209, 257
-  orig: 209, 257
+confetti/confetti37
+  rotate: true
+  xy: 418, 2
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti14
-  rotate: false
-  xy: 635, 779
-  size: 209, 257
-  orig: 209, 257
+confetti/confetti38
+  rotate: true
+  xy: 626, 2
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti15
-  rotate: false
-  xy: 846, 1038
-  size: 209, 257
-  orig: 209, 257
+confetti/confetti39
+  rotate: true
+  xy: 834, 2
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti16
-  rotate: false
-  xy: 213, 2
-  size: 209, 257
-  orig: 209, 257
+confetti/confetti4
+  rotate: true
+  xy: 626, 678
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti17
-  rotate: false
-  xy: 424, 261
-  size: 209, 257
-  orig: 209, 257
+confetti/confetti40
+  rotate: true
+  xy: 1042, 2
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti18
-  rotate: false
-  xy: 635, 520
-  size: 209, 257
-  orig: 209, 257
+confetti/confetti5
+  rotate: true
+  xy: 834, 678
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti19
-  rotate: false
-  xy: 846, 779
-  size: 209, 257
-  orig: 209, 257
+confetti/confetti6
+  rotate: true
+  xy: 1042, 678
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti2
-  rotate: false
-  xy: 2, 779
-  size: 209, 257
-  orig: 209, 257
+confetti/confetti7
+  rotate: true
+  xy: 1250, 678
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti20
+confetti/confetti8
   rotate: false
-  xy: 1057, 1038
-  size: 209, 257
-  orig: 209, 257
+  xy: 1458, 639
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1
-fire/confetti21
-  rotate: false
-  xy: 424, 2
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti22
-  rotate: false
-  xy: 635, 261
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti23
-  rotate: false
-  xy: 846, 520
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti24
-  rotate: false
-  xy: 1057, 779
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti25
-  rotate: false
-  xy: 1268, 1038
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti26
-  rotate: false
-  xy: 635, 2
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti27
-  rotate: false
-  xy: 846, 261
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti28
-  rotate: false
-  xy: 1057, 520
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti29
-  rotate: false
-  xy: 1268, 779
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti3
-  rotate: false
-  xy: 213, 1038
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti30
-  rotate: false
-  xy: 1479, 1038
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti31
-  rotate: false
-  xy: 846, 2
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti32
-  rotate: false
-  xy: 1057, 261
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti33
-  rotate: false
-  xy: 1268, 520
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti34
-  rotate: false
-  xy: 1479, 779
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti35
-  rotate: false
-  xy: 1057, 2
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti36
-  rotate: false
-  xy: 1268, 261
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti37
-  rotate: false
-  xy: 1479, 520
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti38
-  rotate: false
-  xy: 1268, 2
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti39
-  rotate: false
-  xy: 1479, 261
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti4
-  rotate: false
-  xy: 2, 520
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti40
-  rotate: false
-  xy: 1479, 2
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti5
-  rotate: false
-  xy: 213, 779
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti6
-  rotate: false
-  xy: 424, 1038
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti7
-  rotate: false
-  xy: 2, 261
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti8
-  rotate: false
-  xy: 213, 520
-  size: 209, 257
-  orig: 209, 257
-  offset: 0, 0
-  index: -1
-fire/confetti9
-  rotate: false
-  xy: 424, 779
-  size: 209, 257
-  orig: 209, 257
+confetti/confetti9
+  rotate: true
+  xy: 2, 509
+  size: 167, 206
+  orig: 167, 206
   offset: 0, 0
   index: -1

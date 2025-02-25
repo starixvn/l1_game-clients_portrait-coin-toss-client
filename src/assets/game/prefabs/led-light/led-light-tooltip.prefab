@@ -250,7 +250,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 119.1796875,
+      "width": 174.796875,
       "height": 60.480000000000004
     },
     "_anchorPoint": {
@@ -289,8 +289,8 @@
     "_string": "HARRIS",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 30,
-    "_fontSize": 30,
+    "_actualFontSize": 44,
+    "_fontSize": 44,
     "_fontFamily": "Arial",
     "_lineHeight": 48,
     "_overflow": 0,
@@ -404,8 +404,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 83.58984375,
-      "height": 46
+      "width": 111.3984375,
+      "height": 64
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -432,8 +432,8 @@
     },
     "_alignFlags": 45,
     "_target": null,
-    "_left": 3.205078125,
-    "_right": 3.205078125,
+    "_left": 8.30078125,
+    "_right": 8.30078125,
     "_top": 3.9659999999999997,
     "_bottom": -3.9659999999999997,
     "_horizontalCenter": 0,
@@ -528,8 +528,8 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -0.001,
-      "y": 11.409,
+      "x": -0.0009999999999763531,
+      "y": 15.783000000000015,
       "z": 0
     },
     "_lrot": {
@@ -569,8 +569,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 117.4072265625,
-      "height": 60.480000000000004
+      "width": 172.197265625,
+      "height": 57.96
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -608,10 +608,10 @@
     "_string": "#123456",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 30,
-    "_fontSize": 30,
+    "_actualFontSize": 44,
+    "_fontSize": 44,
     "_fontFamily": "Arial",
-    "_lineHeight": 48,
+    "_lineHeight": 46,
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
@@ -681,8 +681,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 90,
-      "height": 46
+      "width": 128,
+      "height": 64
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -777,7 +777,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -24.777000000000044,
+      "y": -33.698999999999955,
       "z": 0
     },
     "_lrot": {
@@ -903,8 +903,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 90,
-      "height": 46
+      "width": 128,
+      "height": 64
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",

@@ -1,17 +1,17 @@
 {
 "skeleton": {
-	"hash": "oLoRqewYyky2z9jp5EspOoT4Jgs",
+	"hash": "SAMRKq0NOW8wOi4tQgY7s/TXcRc",
 	"spine": "3.8.99",
-	"x": -199.2,
-	"y": -199.2,
-	"width": 398.4,
-	"height": 398.4,
+	"x": -298.8,
+	"y": -298.8,
+	"width": 597.6,
+	"height": 597.6,
 	"images": "",
 	"audio": ""
 },
 "bones": [
 	{ "name": "trump" },
-	{ "name": "body", "parent": "trump", "scaleX": 2.1, "scaleY": 2.1 }
+	{ "name": "body", "parent": "trump", "scaleX": 1.2, "scaleY": 1.2 }
 ],
 "slots": [
 	{ "name": "Layer 1", "bone": "body", "attachment": "trump/Layer-53" }
