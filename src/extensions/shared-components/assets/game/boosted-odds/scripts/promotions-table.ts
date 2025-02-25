@@ -51,7 +51,7 @@ export class PromotionsTable extends ObserverComponent {
 
     protected onEnable(): void {
         this.dialog.onHideComplete = () => {
-            GameGuideUtils.moveWebViewGuide(false);
+            GameGuideUtils.showWebViewGuide();
         };
     }
 

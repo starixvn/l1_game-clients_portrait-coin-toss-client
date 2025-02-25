@@ -23,6 +23,9 @@ export class LocalizedSprite extends Component {
     })
     spriteList = [];
 
+    @property
+    usingRawSize = true;
+
     onLoad() {
         if (!i18n.ready) {
             i18n.init("en");
@@ -56,8 +59,10 @@ export class LocalizedSprite extends Component {
     }
 
     setSprite(spriteFrame: SpriteFrame) {
-        this.sprite.sizeMode = Sprite.SizeMode.RAW;
-        this.sprite.trim = false;
+        if (this.usingRawSize) {
+            this.sprite.sizeMode = Sprite.SizeMode.RAW;
+            this.sprite.trim = false;
+        }
         this.sprite.spriteFrame = spriteFrame;
     }
 }

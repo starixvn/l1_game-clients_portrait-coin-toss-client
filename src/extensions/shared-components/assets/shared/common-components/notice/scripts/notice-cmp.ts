@@ -35,7 +35,7 @@ export class NoticeCmp extends Dialog {
     onClose: () => void;
 
     onHideComplete = () => {
-        GameGuideUtils.moveWebViewGuide(false);
+        GameGuideUtils.showWebViewGuide();
     };
 
     setData(data: {

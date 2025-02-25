@@ -28,7 +28,7 @@ export class PromotionsContainer extends NodeContainer {
         if (data.popupCounter === this.popupCounter) {
             return;
         }
-        await GameGuideUtils.moveWebViewGuide(true);
+        await GameGuideUtils.hideWebViewGuide();
 
         this.popupCounter = data.popupCounter;
         if (!this.wrapperNode?.active) {

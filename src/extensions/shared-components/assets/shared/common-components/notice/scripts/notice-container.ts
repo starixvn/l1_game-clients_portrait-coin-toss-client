@@ -15,7 +15,7 @@ export class NoticeContainer extends NodeContainer {
     noticeCmp: NoticeCmp = null;
 
     private async showNoticeComponent(notice: gc.Notices.Notice) {
-        await GameGuideUtils.moveWebViewGuide(true);
+        await GameGuideUtils.hideWebViewGuide();
         const node = this.createNode();
         this.noticeCmp = node.getComponent<NoticeCmp>(NoticeCmp);
         this.noticeCmp.setData(notice);
