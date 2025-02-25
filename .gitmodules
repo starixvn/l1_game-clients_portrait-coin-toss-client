@@ -14,3 +14,7 @@
 	path = src/extensions/i18n
 	url = ../game-client-packages/i18n.git
 	branch = main
+[submodule "src/build-templates"]
+	path = src/build-templates
+	url = ../game-client-packages/build-templates.git
+	branch = main
