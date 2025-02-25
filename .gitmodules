@@ -1,7 +1,3 @@
-[submodule "src/extensions/shared-components"]
-	path = src/extensions/shared-components
-	url = ../game-client-packages/shared-components.git
-	branch = main
 [submodule "src/extensions/direct-shared-components"]
 	path = src/extensions/direct-shared-components
 	url = ../game-client-packages/direct-shared-components.git
@@ -14,7 +10,11 @@
 	path = src/tests/cocos-testing
 	url = ../game-client-packages/cocos-testing.git
 	branch = main
+[submodule "src/extensions/shared-components"]
+	path = src/extensions/shared-components
+	url = ../game-client-packages/shared-components.git
+	branch = main
 [submodule "src/extensions/i18n"]
 	path = src/extensions/i18n
-	url = ../game-clients/game-client-packages/i18n.git
+	url = ../game-client-packages/i18n.git
 	branch = main
