@@ -97,7 +97,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": -167.444,
-      "y": -80.78599999999994,
+      "y": -67.34899999999993,
       "z": 0
     },
     "_lrot": {
@@ -228,7 +228,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "",
+    "defaultAnimation": "confetti",
     "_premultipliedAlpha": true,
     "_timeScale": 1,
     "_preCacheMode": 1,
@@ -464,7 +464,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 178.784,
-      "y": -123.303,
+      "y": -48.789999999999964,
       "z": 0
     },
     "_lrot": {
@@ -595,7 +595,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "",
+    "defaultAnimation": "confetti",
     "_premultipliedAlpha": true,
     "_timeScale": 1,
     "_preCacheMode": 1,

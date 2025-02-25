@@ -1,0 +1,1317 @@
+
+coin_toss.png
+size: 2038,1999
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flip coin/flip_0
+  rotate: false
+  xy: 2, 1591
+  size: 518, 206
+  orig: 608, 286
+  offset: 36, 79
+  index: -1
+flip coin/flip_1
+  rotate: false
+  xy: 503, 1377
+  size: 526, 210
+  orig: 608, 286
+  offset: 36, 75
+  index: -1
+flip coin/flip_10
+  rotate: false
+  xy: 2, 1162
+  size: 523, 213
+  orig: 608, 286
+  offset: 39, 72
+  index: -1
+flip coin/flip_11
+  rotate: false
+  xy: 522, 1589
+  size: 520, 206
+  orig: 608, 286
+  offset: 41, 79
+  index: -1
+flip coin/flip_12
+  rotate: false
+  xy: 1024, 1797
+  size: 516, 200
+  orig: 608, 286
+  offset: 44, 85
+  index: -1
+flip coin/flip_13
+  rotate: false
+  xy: 2, 1799
+  size: 513, 198
+  orig: 608, 286
+  offset: 46, 87
+  index: -1
+flip coin/flip_14
+  rotate: false
+  xy: 517, 1799
+  size: 505, 198
+  orig: 608, 286
+  offset: 52, 87
+  index: -1
+flip coin/flip_15
+  rotate: false
+  xy: 1542, 1792
+  size: 494, 205
+  orig: 608, 286
+  offset: 62, 80
+  index: -1
+flip coin/flip_16
+  rotate: false
+  xy: 520, 936
+  size: 485, 217
+  orig: 608, 286
+  offset: 75, 68
+  index: -1
+flip coin/flip_2
+  rotate: false
+  xy: 873, 480
+  size: 535, 224
+  orig: 608, 286
+  offset: 36, 61
+  index: -1
+flip coin/flip_72
+  rotate: false
+  xy: 1180, 232
+  size: 528, 228
+  orig: 608, 286
+  offset: 36, 57
+  index: -1
+flip coin/flip_8
+  rotate: false
+  xy: 1410, 462
+  size: 528, 226
+  orig: 608, 286
+  offset: 36, 59
+  index: -1
+flip coin/flip_9
+  rotate: false
+  xy: 345, 488
+  size: 526, 221
+  orig: 608, 286
+  offset: 37, 64
+  index: -1
+settle biden/settle_0
+  rotate: false
+  xy: 2, 29
+  size: 528, 228
+  orig: 608, 286
+  offset: 36, 57
+  index: -1
+settle trump/settle_0
+  rotate: false
+  xy: 2, 29
+  size: 528, 228
+  orig: 608, 286
+  offset: 36, 57
+  index: -1
+settle biden/settle_1
+  rotate: false
+  xy: 532, 21
+  size: 529, 228
+  orig: 608, 286
+  offset: 36, 57
+  index: -1
+settle trump/settle_1
+  rotate: false
+  xy: 532, 21
+  size: 529, 228
+  orig: 608, 286
+  offset: 36, 57
+  index: -1
+settle biden/settle_2
+  rotate: false
+  xy: 1063, 2
+  size: 531, 228
+  orig: 608, 286
+  offset: 36, 57
+  index: -1
+settle trump/settle_2
+  rotate: false
+  xy: 1063, 2
+  size: 531, 228
+  orig: 608, 286
+  offset: 36, 57
+  index: -1
+settle biden/settle_21
+  rotate: false
+  xy: 2, 721
+  size: 499, 223
+  orig: 608, 286
+  offset: 36, 62
+  index: -1
+settle biden/settle_22
+  rotate: false
+  xy: 2, 1378
+  size: 499, 211
+  orig: 608, 286
+  offset: 34, 74
+  index: -1
+settle biden/settle_23
+  rotate: false
+  xy: 1169, 1150
+  size: 516, 214
+  orig: 608, 286
+  offset: 30, 71
+  index: -1
+settle biden/settle_24
+  rotate: false
+  xy: 1007, 928
+  size: 553, 220
+  orig: 608, 286
+  offset: 25, 65
+  index: -1
+settle biden/settle_25
+  rotate: false
+  xy: 2, 259
+  size: 587, 227
+  orig: 608, 286
+  offset: 21, 58
+  index: -1
+settle biden/settle_50
+  rotate: false
+  xy: 2, 491
+  size: 341, 228
+  orig: 608, 286
+  offset: 20, 57
+  index: -1
+settle biden/settle_51
+  rotate: false
+  xy: 1562, 920
+  size: 329, 221
+  orig: 608, 286
+  offset: 24, 64
+  index: -1
+settle biden/settle_52
+  rotate: false
+  xy: 848, 1155
+  size: 319, 216
+  orig: 608, 286
+  offset: 28, 69
+  index: -1
+settle biden/settle_53
+  rotate: false
+  xy: 1031, 1373
+  size: 310, 211
+  orig: 608, 286
+  offset: 33, 74
+  index: -1
+settle biden/settle_54
+  rotate: false
+  xy: 1351, 1581
+  size: 305, 209
+  orig: 608, 286
+  offset: 36, 76
+  index: -1
+settle trump/settle_21
+  rotate: false
+  xy: 503, 711
+  size: 499, 223
+  orig: 608, 286
+  offset: 36, 62
+  index: -1
+settle trump/settle_22
+  rotate: false
+  xy: 1343, 1366
+  size: 499, 211
+  orig: 608, 286
+  offset: 34, 74
+  index: -1
+settle trump/settle_23
+  rotate: false
+  xy: 2, 946
+  size: 516, 214
+  orig: 608, 286
+  offset: 30, 71
+  index: -1
+settle trump/settle_24
+  rotate: false
+  xy: 1004, 706
+  size: 553, 220
+  orig: 608, 286
+  offset: 25, 65
+  index: -1
+settle trump/settle_25
+  rotate: false
+  xy: 591, 251
+  size: 587, 227
+  orig: 608, 286
+  offset: 21, 58
+  index: -1
+settle trump/settle_49
+  rotate: true
+  xy: 1710, 108
+  size: 352, 236
+  orig: 608, 286
+  offset: 17, 49
+  index: -1
+settle trump/settle_50
+  rotate: false
+  xy: 1559, 690
+  size: 341, 228
+  orig: 608, 286
+  offset: 20, 57
+  index: -1
+settle trump/settle_51
+  rotate: false
+  xy: 1687, 1143
+  size: 329, 221
+  orig: 608, 286
+  offset: 24, 64
+  index: -1
+settle trump/settle_52
+  rotate: false
+  xy: 527, 1159
+  size: 319, 216
+  orig: 608, 286
+  offset: 28, 69
+  index: -1
+settle trump/settle_53
+  rotate: false
+  xy: 1658, 1579
+  size: 310, 211
+  orig: 608, 286
+  offset: 33, 74
+  index: -1
+settle trump/settle_54
+  rotate: false
+  xy: 1044, 1586
+  size: 305, 209
+  orig: 608, 286
+  offset: 36, 76
+  index: -1
+
+coin_toss2.png
+size: 2038,2004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flip coin/flip_17
+  rotate: false
+  xy: 2, 1773
+  size: 487, 229
+  orig: 608, 286
+  offset: 85, 56
+  index: -1
+flip coin/flip_3
+  rotate: false
+  xy: 2, 608
+  size: 537, 231
+  orig: 608, 286
+  offset: 36, 54
+  index: -1
+flip coin/flip_4
+  rotate: false
+  xy: 2, 372
+  size: 536, 234
+  orig: 608, 286
+  offset: 36, 51
+  index: -1
+flip coin/flip_5
+  rotate: false
+  xy: 2, 136
+  size: 533, 234
+  orig: 608, 286
+  offset: 36, 51
+  index: -1
+flip coin/flip_50
+  rotate: false
+  xy: 1561, 514
+  size: 456, 254
+  orig: 608, 286
+  offset: 93, 30
+  index: -1
+flip coin/flip_51
+  rotate: false
+  xy: 1558, 258
+  size: 464, 254
+  orig: 608, 286
+  offset: 85, 30
+  index: -1
+flip coin/flip_52
+  rotate: false
+  xy: 1555, 2
+  size: 481, 254
+  orig: 608, 286
+  offset: 67, 30
+  index: -1
+flip coin/flip_6
+  rotate: false
+  xy: 2, 844
+  size: 530, 231
+  orig: 608, 286
+  offset: 36, 54
+  index: -1
+flip coin/flip_67
+  rotate: false
+  xy: 1051, 832
+  size: 528, 232
+  orig: 608, 286
+  offset: 36, 53
+  index: -1
+flip coin/flip_68
+  rotate: false
+  xy: 491, 1773
+  size: 524, 229
+  orig: 608, 286
+  offset: 36, 56
+  index: -1
+flip coin/flip_69
+  rotate: false
+  xy: 1068, 1534
+  size: 523, 230
+  orig: 608, 286
+  offset: 36, 55
+  index: -1
+flip coin/flip_7
+  rotate: false
+  xy: 537, 1541
+  size: 529, 230
+  orig: 608, 286
+  offset: 36, 55
+  index: -1
+flip coin/flip_70
+  rotate: false
+  xy: 1063, 1301
+  size: 523, 231
+  orig: 608, 286
+  offset: 36, 54
+  index: -1
+flip coin/flip_71
+  rotate: false
+  xy: 2, 1310
+  size: 525, 230
+  orig: 608, 286
+  offset: 36, 55
+  index: -1
+settle biden/settle_10
+  rotate: false
+  xy: 1048, 596
+  size: 511, 234
+  orig: 608, 286
+  offset: 36, 51
+  index: -1
+settle trump/settle_10
+  rotate: false
+  xy: 1048, 596
+  size: 511, 234
+  orig: 608, 286
+  offset: 36, 51
+  index: -1
+settle biden/settle_11
+  rotate: false
+  xy: 1047, 359
+  size: 509, 235
+  orig: 608, 286
+  offset: 36, 50
+  index: -1
+settle trump/settle_11
+  rotate: false
+  xy: 1047, 359
+  size: 509, 235
+  orig: 608, 286
+  offset: 36, 50
+  index: -1
+settle biden/settle_12
+  rotate: false
+  xy: 537, 131
+  size: 507, 236
+  orig: 608, 286
+  offset: 36, 49
+  index: -1
+settle biden/settle_20
+  rotate: false
+  xy: 541, 605
+  size: 505, 234
+  orig: 608, 286
+  offset: 36, 51
+  index: -1
+settle biden/settle_28
+  rotate: false
+  xy: 1584, 1023
+  size: 373, 251
+  orig: 608, 286
+  offset: 12, 34
+  index: -1
+settle biden/settle_3
+  rotate: false
+  xy: 1017, 1773
+  size: 532, 229
+  orig: 608, 286
+  offset: 36, 56
+  index: -1
+settle trump/settle_3
+  rotate: false
+  xy: 1017, 1773
+  size: 532, 229
+  orig: 608, 286
+  offset: 36, 56
+  index: -1
+settle biden/settle_4
+  rotate: false
+  xy: 2, 1542
+  size: 533, 229
+  orig: 608, 286
+  offset: 36, 56
+  index: -1
+settle trump/settle_4
+  rotate: false
+  xy: 2, 1542
+  size: 533, 229
+  orig: 608, 286
+  offset: 36, 56
+  index: -1
+settle biden/settle_48
+  rotate: false
+  xy: 1588, 1276
+  size: 361, 243
+  orig: 608, 286
+  offset: 15, 42
+  index: -1
+settle biden/settle_49
+  rotate: false
+  xy: 1551, 1766
+  size: 352, 236
+  orig: 608, 286
+  offset: 17, 49
+  index: -1
+settle biden/settle_5
+  rotate: false
+  xy: 529, 1309
+  size: 532, 230
+  orig: 608, 286
+  offset: 36, 55
+  index: -1
+settle trump/settle_5
+  rotate: false
+  xy: 529, 1309
+  size: 532, 230
+  orig: 608, 286
+  offset: 36, 55
+  index: -1
+settle biden/settle_6
+  rotate: false
+  xy: 2, 1077
+  size: 530, 230
+  orig: 608, 286
+  offset: 36, 55
+  index: -1
+settle trump/settle_6
+  rotate: false
+  xy: 2, 1077
+  size: 530, 230
+  orig: 608, 286
+  offset: 36, 55
+  index: -1
+settle biden/settle_7
+  rotate: false
+  xy: 534, 1076
+  size: 527, 231
+  orig: 608, 286
+  offset: 36, 54
+  index: -1
+settle trump/settle_7
+  rotate: false
+  xy: 534, 1076
+  size: 527, 231
+  orig: 608, 286
+  offset: 36, 54
+  index: -1
+settle biden/settle_8
+  rotate: false
+  xy: 1063, 1066
+  size: 519, 233
+  orig: 608, 286
+  offset: 36, 52
+  index: -1
+settle trump/settle_8
+  rotate: false
+  xy: 1063, 1066
+  size: 519, 233
+  orig: 608, 286
+  offset: 36, 52
+  index: -1
+settle biden/settle_9
+  rotate: false
+  xy: 534, 841
+  size: 515, 233
+  orig: 608, 286
+  offset: 36, 52
+  index: -1
+settle trump/settle_9
+  rotate: false
+  xy: 534, 841
+  size: 515, 233
+  orig: 608, 286
+  offset: 36, 52
+  index: -1
+settle trump/settle_12
+  rotate: false
+  xy: 1046, 121
+  size: 507, 236
+  orig: 608, 286
+  offset: 36, 49
+  index: -1
+settle trump/settle_20
+  rotate: false
+  xy: 540, 369
+  size: 505, 234
+  orig: 608, 286
+  offset: 36, 51
+  index: -1
+settle trump/settle_28
+  rotate: false
+  xy: 1581, 770
+  size: 373, 251
+  orig: 608, 286
+  offset: 12, 34
+  index: -1
+settle trump/settle_48
+  rotate: false
+  xy: 1593, 1521
+  size: 361, 243
+  orig: 608, 286
+  offset: 15, 42
+  index: -1
+
+coin_toss3.png
+size: 2046,1986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flip coin/flip_18
+  rotate: false
+  xy: 1529, 1485
+  size: 494, 238
+  orig: 608, 286
+  offset: 94, 47
+  index: -1
+flip coin/flip_19
+  rotate: false
+  xy: 1020, 1266
+  size: 499, 240
+  orig: 608, 286
+  offset: 97, 45
+  index: -1
+flip coin/flip_20
+  rotate: false
+  xy: 1521, 1243
+  size: 515, 240
+  orig: 608, 286
+  offset: 92, 45
+  index: -1
+flip coin/flip_21
+  rotate: false
+  xy: 2, 537
+  size: 557, 243
+  orig: 608, 286
+  offset: 50, 42
+  index: -1
+flip coin/flip_22
+  rotate: false
+  xy: 446, 25
+  size: 588, 254
+  orig: 608, 286
+  offset: 12, 31
+  index: -1
+flip coin/flip_48
+  rotate: false
+  xy: 1540, 2
+  size: 434, 256
+  orig: 608, 286
+  offset: 116, 28
+  index: -1
+flip coin/flip_49
+  rotate: false
+  xy: 2, 33
+  size: 442, 255
+  orig: 608, 286
+  offset: 107, 29
+  index: -1
+flip coin/flip_53
+  rotate: false
+  xy: 1036, 3
+  size: 502, 255
+  orig: 608, 286
+  offset: 46, 30
+  index: -1
+flip coin/flip_58
+  rotate: false
+  xy: 541, 281
+  size: 555, 248
+  orig: 608, 286
+  offset: 6, 37
+  index: -1
+flip coin/flip_59
+  rotate: false
+  xy: 1098, 260
+  size: 562, 250
+  orig: 608, 286
+  offset: 17, 35
+  index: -1
+flip coin/flip_66
+  rotate: false
+  xy: 2, 290
+  size: 537, 245
+  orig: 608, 286
+  offset: 36, 40
+  index: -1
+settle biden/settle_13
+  rotate: false
+  xy: 1152, 1747
+  size: 507, 237
+  orig: 608, 286
+  offset: 36, 48
+  index: -1
+settle biden/settle_14
+  rotate: false
+  xy: 511, 1511
+  size: 507, 237
+  orig: 608, 286
+  offset: 36, 48
+  index: -1
+settle biden/settle_15
+  rotate: false
+  xy: 2, 1270
+  size: 507, 239
+  orig: 608, 286
+  offset: 36, 46
+  index: -1
+settle biden/settle_16
+  rotate: false
+  xy: 2, 1027
+  size: 509, 241
+  orig: 608, 286
+  offset: 36, 44
+  index: -1
+settle biden/settle_17
+  rotate: false
+  xy: 2, 784
+  size: 507, 241
+  orig: 608, 286
+  offset: 36, 44
+  index: -1
+settle biden/settle_18
+  rotate: false
+  xy: 513, 1026
+  size: 504, 242
+  orig: 608, 286
+  offset: 36, 43
+  index: -1
+settle biden/settle_19
+  rotate: false
+  xy: 1019, 1021
+  size: 499, 243
+  orig: 608, 286
+  offset: 36, 42
+  index: -1
+settle biden/settle_26
+  rotate: false
+  xy: 2, 1750
+  size: 573, 234
+  orig: 608, 286
+  offset: 18, 51
+  index: -1
+settle biden/settle_27
+  rotate: false
+  xy: 561, 531
+  size: 582, 243
+  orig: 608, 286
+  offset: 15, 42
+  index: -1
+settle biden/settle_29
+  rotate: false
+  xy: 1661, 1725
+  size: 383, 259
+  orig: 608, 286
+  offset: 10, 26
+  index: -1
+settle trump/settle_13
+  rotate: false
+  xy: 2, 1511
+  size: 507, 237
+  orig: 608, 286
+  offset: 36, 48
+  index: -1
+settle trump/settle_14
+  rotate: false
+  xy: 1020, 1508
+  size: 507, 237
+  orig: 608, 286
+  offset: 36, 48
+  index: -1
+settle trump/settle_15
+  rotate: false
+  xy: 511, 1270
+  size: 507, 239
+  orig: 608, 286
+  offset: 36, 46
+  index: -1
+settle trump/settle_16
+  rotate: false
+  xy: 1520, 1000
+  size: 509, 241
+  orig: 608, 286
+  offset: 36, 44
+  index: -1
+settle trump/settle_17
+  rotate: false
+  xy: 1518, 757
+  size: 507, 241
+  orig: 608, 286
+  offset: 36, 44
+  index: -1
+settle trump/settle_18
+  rotate: false
+  xy: 511, 782
+  size: 504, 242
+  orig: 608, 286
+  offset: 36, 43
+  index: -1
+settle trump/settle_19
+  rotate: false
+  xy: 1017, 776
+  size: 499, 243
+  orig: 608, 286
+  offset: 36, 42
+  index: -1
+settle trump/settle_26
+  rotate: false
+  xy: 577, 1750
+  size: 573, 234
+  orig: 608, 286
+  offset: 18, 51
+  index: -1
+settle trump/settle_27
+  rotate: false
+  xy: 1145, 512
+  size: 582, 243
+  orig: 608, 286
+  offset: 15, 42
+  index: -1
+settle trump/settle_29
+  rotate: true
+  xy: 1729, 372
+  size: 383, 259
+  orig: 608, 286
+  offset: 10, 26
+  index: -1
+
+coin_toss4.png
+size: 1959,1997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flip coin/flip_23
+  rotate: true
+  xy: 282, 1154
+  size: 564, 268
+  orig: 608, 286
+  offset: 29, 17
+  index: -1
+flip coin/flip_24
+  rotate: true
+  xy: 2, 109
+  size: 531, 275
+  orig: 608, 286
+  offset: 57, 10
+  index: -1
+flip coin/flip_25
+  rotate: true
+  xy: 2, 642
+  size: 516, 277
+  orig: 608, 286
+  offset: 67, 8
+  index: -1
+flip coin/flip_26
+  rotate: true
+  xy: 853, 916
+  size: 511, 277
+  orig: 608, 286
+  offset: 70, 8
+  index: -1
+flip coin/flip_27
+  rotate: false
+  xy: 860, 1718
+  size: 501, 277
+  orig: 608, 286
+  offset: 76, 8
+  index: -1
+flip coin/flip_28
+  rotate: false
+  xy: 860, 1439
+  size: 494, 277
+  orig: 608, 286
+  offset: 81, 8
+  index: -1
+flip coin/flip_29
+  rotate: false
+  xy: 1356, 1440
+  size: 486, 276
+  orig: 608, 286
+  offset: 86, 9
+  index: -1
+flip coin/flip_30
+  rotate: true
+  xy: 559, 410
+  size: 480, 275
+  orig: 608, 286
+  offset: 90, 10
+  index: -1
+flip coin/flip_31
+  rotate: true
+  xy: 1093, 183
+  size: 474, 274
+  orig: 608, 286
+  offset: 94, 11
+  index: -1
+flip coin/flip_54
+  rotate: true
+  xy: 836, 132
+  size: 525, 255
+  orig: 608, 286
+  offset: 23, 30
+  index: -1
+flip coin/flip_56
+  rotate: true
+  xy: 1405, 203
+  size: 548, 255
+  orig: 608, 286
+  offset: 0, 30
+  index: -1
+flip coin/flip_57
+  rotate: false
+  xy: 853, 659
+  size: 550, 255
+  orig: 608, 286
+  offset: 0, 30
+  index: -1
+flip coin/flip_60
+  rotate: false
+  xy: 281, 892
+  size: 570, 260
+  orig: 608, 286
+  offset: 27, 25
+  index: -1
+flip coin/flip_61
+  rotate: false
+  xy: 2, 1720
+  size: 574, 275
+  orig: 608, 286
+  offset: 34, 10
+  index: -1
+flip coin/flip_62
+  rotate: true
+  xy: 578, 1429
+  size: 566, 280
+  orig: 608, 286
+  offset: 35, 5
+  index: -1
+flip coin/flip_63
+  rotate: true
+  xy: 2, 1160
+  size: 558, 278
+  orig: 608, 286
+  offset: 35, 7
+  index: -1
+flip coin/flip_64
+  rotate: false
+  xy: 1132, 1161
+  size: 540, 276
+  orig: 608, 286
+  offset: 35, 9
+  index: -1
+flip coin/flip_65
+  rotate: true
+  xy: 1662, 215
+  size: 536, 266
+  orig: 608, 286
+  offset: 35, 19
+  index: -1
+settle biden/settle_32
+  rotate: true
+  xy: 279, 75
+  size: 406, 275
+  orig: 608, 286
+  offset: 4, 10
+  index: -1
+settle biden/settle_33
+  rotate: false
+  xy: 1363, 1719
+  size: 407, 276
+  orig: 608, 286
+  offset: 4, 9
+  index: -1
+settle biden/settle_34
+  rotate: true
+  xy: 1682, 1032
+  size: 406, 275
+  orig: 608, 286
+  offset: 4, 10
+  index: -1
+settle trump/settle_32
+  rotate: true
+  xy: 1405, 753
+  size: 406, 275
+  orig: 608, 286
+  offset: 4, 10
+  index: -1
+settle trump/settle_33
+  rotate: true
+  xy: 281, 483
+  size: 407, 276
+  orig: 608, 286
+  offset: 4, 9
+  index: -1
+settle trump/settle_34
+  rotate: true
+  xy: 556, 2
+  size: 406, 275
+  orig: 608, 286
+  offset: 4, 10
+  index: -1
+
+coin_toss5.png
+size: 1991,1905
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flip coin/flip_32
+  rotate: false
+  xy: 2, 1372
+  size: 471, 274
+  orig: 608, 286
+  offset: 96, 11
+  index: -1
+flip coin/flip_33
+  rotate: false
+  xy: 2, 1096
+  size: 467, 274
+  orig: 608, 286
+  offset: 99, 11
+  index: -1
+flip coin/flip_34
+  rotate: false
+  xy: 2, 821
+  size: 462, 273
+  orig: 608, 286
+  offset: 102, 12
+  index: -1
+flip coin/flip_35
+  rotate: false
+  xy: 2, 547
+  size: 458, 272
+  orig: 608, 286
+  offset: 105, 13
+  index: -1
+flip coin/flip_36
+  rotate: false
+  xy: 2, 274
+  size: 453, 271
+  orig: 608, 286
+  offset: 108, 14
+  index: -1
+flip coin/flip_37
+  rotate: false
+  xy: 2, 2
+  size: 450, 270
+  orig: 608, 286
+  offset: 110, 15
+  index: -1
+flip coin/flip_38
+  rotate: false
+  xy: 546, 1633
+  size: 448, 270
+  orig: 608, 286
+  offset: 111, 15
+  index: -1
+flip coin/flip_39
+  rotate: false
+  xy: 996, 1636
+  size: 445, 267
+  orig: 608, 286
+  offset: 113, 17
+  index: -1
+flip coin/flip_40
+  rotate: false
+  xy: 1443, 1637
+  size: 442, 266
+  orig: 608, 286
+  offset: 115, 18
+  index: -1
+flip coin/flip_41
+  rotate: false
+  xy: 475, 1366
+  size: 440, 265
+  orig: 608, 286
+  offset: 116, 19
+  index: -1
+flip coin/flip_42
+  rotate: false
+  xy: 471, 1101
+  size: 437, 263
+  orig: 608, 286
+  offset: 118, 21
+  index: -1
+flip coin/flip_43
+  rotate: false
+  xy: 471, 837
+  size: 434, 262
+  orig: 608, 286
+  offset: 119, 22
+  index: -1
+flip coin/flip_44
+  rotate: false
+  xy: 466, 574
+  size: 433, 261
+  orig: 608, 286
+  offset: 120, 23
+  index: -1
+flip coin/flip_45
+  rotate: false
+  xy: 462, 312
+  size: 431, 260
+  orig: 608, 286
+  offset: 121, 24
+  index: -1
+flip coin/flip_46
+  rotate: false
+  xy: 996, 1376
+  size: 429, 258
+  orig: 608, 286
+  offset: 122, 26
+  index: -1
+flip coin/flip_47
+  rotate: false
+  xy: 457, 53
+  size: 431, 257
+  orig: 608, 286
+  offset: 120, 27
+  index: -1
+flip coin/flip_55
+  rotate: false
+  xy: 2, 1648
+  size: 542, 255
+  orig: 608, 286
+  offset: 6, 30
+  index: -1
+settle biden/settle_30
+  rotate: true
+  xy: 1723, 968
+  size: 392, 266
+  orig: 608, 286
+  offset: 8, 19
+  index: -1
+settle biden/settle_31
+  rotate: false
+  xy: 907, 828
+  size: 400, 271
+  orig: 608, 286
+  offset: 6, 14
+  index: -1
+settle biden/settle_35
+  rotate: false
+  xy: 1443, 1362
+  size: 403, 273
+  orig: 608, 286
+  offset: 5, 12
+  index: -1
+settle biden/settle_36
+  rotate: false
+  xy: 895, 282
+  size: 400, 271
+  orig: 608, 286
+  offset: 6, 14
+  index: -1
+settle biden/settle_37
+  rotate: false
+  xy: 1322, 1090
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle biden/settle_38
+  rotate: false
+  xy: 1303, 546
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle biden/settle_39
+  rotate: false
+  xy: 1292, 2
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle biden/settle_40
+  rotate: true
+  xy: 1704, 166
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle trump/settle_31
+  rotate: false
+  xy: 901, 555
+  size: 400, 271
+  orig: 608, 286
+  offset: 6, 14
+  index: -1
+settle trump/settle_35
+  rotate: false
+  xy: 917, 1101
+  size: 403, 273
+  orig: 608, 286
+  offset: 5, 12
+  index: -1
+settle trump/settle_36
+  rotate: false
+  xy: 890, 9
+  size: 400, 271
+  orig: 608, 286
+  offset: 6, 14
+  index: -1
+settle trump/settle_37
+  rotate: false
+  xy: 1309, 818
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle trump/settle_38
+  rotate: false
+  xy: 1297, 274
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle trump/settle_39
+  rotate: true
+  xy: 1710, 567
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+
+coin_toss6.png
+size: 1878,818
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+settle biden/settle_41
+  rotate: false
+  xy: 2, 274
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle biden/settle_42
+  rotate: false
+  xy: 2, 2
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle biden/settle_43
+  rotate: false
+  xy: 804, 546
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle biden/settle_44
+  rotate: false
+  xy: 804, 274
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle biden/settle_45
+  rotate: false
+  xy: 804, 2
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle biden/settle_46
+  rotate: true
+  xy: 1606, 417
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle biden/settle_47
+  rotate: true
+  xy: 1606, 417
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle trump/settle_30
+  rotate: true
+  xy: 1606, 23
+  size: 392, 266
+  orig: 608, 286
+  offset: 8, 19
+  index: -1
+settle trump/settle_40
+  rotate: false
+  xy: 2, 546
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle trump/settle_41
+  rotate: false
+  xy: 403, 546
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle trump/settle_42
+  rotate: false
+  xy: 403, 274
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle trump/settle_43
+  rotate: false
+  xy: 403, 2
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle trump/settle_44
+  rotate: false
+  xy: 1205, 546
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle trump/settle_45
+  rotate: false
+  xy: 1205, 274
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle trump/settle_46
+  rotate: false
+  xy: 1205, 2
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1
+settle trump/settle_47
+  rotate: false
+  xy: 1205, 2
+  size: 399, 270
+  orig: 608, 286
+  offset: 6, 15
+  index: -1

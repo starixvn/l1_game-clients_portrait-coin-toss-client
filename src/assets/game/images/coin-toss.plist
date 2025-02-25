@@ -378,7 +378,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:f044c56eab926ecd8fc93cbd815b71ad:816efd3233834787817b35d8cbb0f95e:8265a744d2c4a24cdfc36379518b9d21$</string>
+            <string>$TexturePacker:SmartUpdate:bd0b78cd2b1c7c734ed4b4d0abe4931f:44f8fc487b062d74a1370c65d913c8da:8265a744d2c4a24cdfc36379518b9d21$</string>
             <key>textureFileName</key>
             <string>coin-toss.webp</string>
         </dict>

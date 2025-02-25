@@ -281,9 +281,9 @@
     "_dstBlendFactor": 4,
     "_color": {
       "__type__": "cc.Color",
-      "r": 7,
-      "g": 60,
-      "b": 196,
+      "r": 3,
+      "g": 42,
+      "b": 152,
       "a": 255
     },
     "_string": "HARRIS",

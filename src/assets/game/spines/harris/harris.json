@@ -1,20 +1,10 @@
 {
-"skeleton": {
-	"hash": "h/GB/pZipJCTPmay05VRn1uVMCY",
-	"spine": "3.8.99",
-	"x": -111.59,
-	"y": -230.65,
-	"width": 224.18,
-	"height": 369.31,
-	"images": "",
-	"audio": ""
-},
+"skeleton": { "hash": "CvhTM1nz6JRLUXI6Bh77tqWBSJ8", "spine": "3.8.99", "images": "D:/Lumi/game/cointoss/harris", "audio": "" },
 "bones": [
 	{ "name": "harris" },
-	{ "name": "haris", "parent": "harris", "y": -46 }
+	{ "name": "haris", "parent": "harris", "scaleX": 1.5, "scaleY": 1.5 }
 ],
 "slots": [
-	{ "name": "image/Group 4", "bone": "harris" },
 	{ "name": "image/1", "bone": "haris", "attachment": "image/1" }
 ],
 "skins": [
