@@ -30,7 +30,7 @@
           "mainBundleCompressionType": "merge_dep",
           "useSplashScreen": false,
           "packAutoAtlas": true,
-          "startScene": "4a235c28-3b16-4dc4-8ba8-53379c27be8f",
+          "startScene": "cdeb5c24-9ba8-4cab-a306-8a562fd04b39",
           "outputName": "web-mobile",
           "scenes": [
             {
@@ -84,7 +84,7 @@
     "useSplashScreen": false,
     "skipCompressTexture": false,
     "mainBundleIsRemote": false,
-    "startScene": "4a235c28-3b16-4dc4-8ba8-53379c27be8f",
+    "startScene": "cdeb5c24-9ba8-4cab-a306-8a562fd04b39",
     "scenes": [
       {
         "url": "db://assets/game/portrait-game.scene",
