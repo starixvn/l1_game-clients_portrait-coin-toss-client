@@ -5623,6 +5623,8 @@
     "__prefab": {
       "__id__": 249
     },
+    "enableFixSingleCamera3D": false,
+    "debugSample": null,
     "_id": ""
   },
   {
@@ -5638,7 +5640,6 @@
       "__id__": 0
     },
     "fileId": "e0Uw0CPhxLf4oPh3eRsagv",
-    "instance": null,
     "targetOverrides": null
   }
 ]

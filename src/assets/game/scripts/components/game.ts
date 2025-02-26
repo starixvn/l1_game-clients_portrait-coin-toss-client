@@ -19,7 +19,6 @@ startGame(settings.name, containerOptions, siteConfigs);
 const { ccclass, property } = _decorator;
 const { observer, render } = Observer;
 
-//
 type ResultSoundInfo = {
     soundId: string;
     duration: number;
