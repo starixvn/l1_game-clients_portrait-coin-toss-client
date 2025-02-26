@@ -68,7 +68,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "Layout-color",
+    "_name": "container",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
@@ -128,7 +128,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "progess-bar-default",
+    "_name": "progess-bar",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
@@ -2474,7 +2474,7 @@
         "__id__": 107
       }
     ],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 113
