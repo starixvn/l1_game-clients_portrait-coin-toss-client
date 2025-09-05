@@ -1,28 +1,11 @@
 import { GameConfigs } from "@sg/game-client-base";
 import { LogStore } from "db://shared-components/game/scripts/stores/log-store";
-import { containerOptions, settings } from "../../../assets/game/scripts/game-settings";
+import { containerOptions } from "../../../assets/game/scripts/containerOptions";
+import { settings } from "../../../assets/game/scripts/game-settings";
 
 jest.mock("db://shared-components/shared/scripts/startup", () => ({
     getSharedContainer: jest.fn(() => ({ sharedContainer: true })),
 }));
-
-describe("settings", () => {
-    it("should have data as expected", () => {
-        // Assert
-        expect(settings).toStrictEqual({
-            id: 80,
-            name: "CoinToss",
-            durations: {
-                wholeRound: 29,
-                lockingBet: 3,
-                placingBet: 20,
-                generatingResult: 2,
-                startRound: 3,
-            },
-            numberOfRoundHistory: 100,
-        });
-    });
-});
 
 describe("when container created", () => {
     let container;

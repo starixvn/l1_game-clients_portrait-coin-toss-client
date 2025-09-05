@@ -1,10 +1,10 @@
-import gc from "@sg/game-client-base";
-import { LogStore } from "db://shared-components/game/scripts/stores/log-store";
-import { sharedContainer } from "../../scripts/shared-container";
+const GAME_NAME = "CoinToss";
 
 export const settings = {
     id: 80,
-    name: "CoinToss",
+    name: GAME_NAME,
+    observerNamespace: GAME_NAME,
+    namespaces: [GAME_NAME],
     durations: {
         wholeRound: 29,
         lockingBet: 3,
@@ -13,13 +13,4 @@ export const settings = {
         startRound: 3,
     },
     numberOfRoundHistory: 100,
-};
-
-export const containerOptions: gc.IContainerOptions = {
-    globalContainer: sharedContainer,
-    onContainerCreated: (container) => {
-        container.bind(gc.GameConfigs.GameSetting).toConstantValue(settings);
-        container.bind(LogStore).to(LogStore);
-    },
-    features: [gc.RoundBasePF, ...gc.defaultFeatures],
 };
