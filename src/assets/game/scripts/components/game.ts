@@ -4,7 +4,7 @@ import GameComponent from "db://shared-components/game/scripts/components/game-c
 import { startGame } from "db://shared-components/shared/scripts/startup";
 import Observer from "observer";
 import { AudioUtils } from "../../../../extensions/shared-components/assets/game/audios/utils";
-import { FunctionUtils } from "../../../../extensions/shared-components/assets/shared/utils";
+import { AnimationUtils } from "../../../../extensions/shared-components/assets/shared/utils";
 import { siteConfigs } from "../../../scripts/site-configs";
 import { containerOptions } from "../containerOptions";
 import { settings } from "../game-settings";
@@ -102,7 +102,7 @@ export default class Game extends GameComponent {
     async playWinningSound() {
         for (const resultSoundInfo of this.resultSoundIds) {
             this.playSound(resultSoundInfo.soundId);
-            await FunctionUtils.delay(resultSoundInfo.duration * 1000);
+            await AnimationUtils.delayTime(resultSoundInfo.duration);
         }
     }
 
