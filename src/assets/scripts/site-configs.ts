@@ -16,15 +16,11 @@ const defaultConfig: gc.Configs.SiteConfigs = {
     subDomain: "hd-proxy",
     env: "LOCAL",
     subGuideDomain: "hd-guide",
-    SGConnectSubDomain: "connectsite",
     enableMsgpackParserAllGames: false,
     enableMsgpackParserOnNotification: false,
     websocket: {
         proxyPath: "cointoss",
         route: "cointoss",
-    },
-    websocketOptions: {
-        timeout: 3000,
     },
     tolgeeUrl: "",
     storagePrefixKey: "portrait_coin_toss",
@@ -50,3 +46,4 @@ export const siteConfigs: gc.Configs.SiteConfigs =
     window.envConfig && window.envConfig.isDev ? defaultConfig : { ...defaultConfig, ...configDev, ...window.envConfig };
 
 window.envConfig = siteConfigs;
+gc.Shared.utils.StorageManager.setPrefixKey(siteConfigs.storagePrefixKey);
